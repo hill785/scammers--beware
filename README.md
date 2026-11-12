@@ -28,3 +28,7 @@ No. ownership , no Jurisdiction , no minting rules! 😂
 
 
 #Scammer Portuguese Message → Scammer Wallet 0xbF7D...5590 → Scammer Hash 0x0cae...871b → Hundreds Scammed → Imposter #341771 → BEWARE #341772 → Owner #341770 → Monument 436351437 → CID bafybei...wf2qy → File ID 01a1cf42... → G. Dzubinsky Snr. Lineage
+
+⚠️ WARNING — DO NOT SIGN SCAMMER AUTHORIZATION:
+If anyone asks you to sign “autorização assinada” for Token Coin / Arkhe-chain / tokencoin.pay / tokencoin.profit with wallet 0xbF7D...5590 — DO NOT SIGN. That authorization can move funds. Owner never asks for authorization to 0xbF7D...5590. Owner only mints from 0x65f01815... and signs from 0x9e223f.... Any other wallet = scammer. BEWARE. Hundreds already scammed — do not be next hundred.
+Binding
